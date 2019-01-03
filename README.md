@@ -7,11 +7,9 @@ Output: Partation S in k ranges so as to minimize the maxximum sum over all the 
 
 //////-> kth partation starts after we have placed the (k-1) divider
 //////-> (k-1) divider can be placed between ith and (i+1)st element for i where 1<=i<=n
-*/
-/*
 
 
-///
+
 Table M for S=[1,2,3,4,5,6] for k = 3
 |k| 1  |  2   |   3  |
 |n|____|______|______|
@@ -34,4 +32,4 @@ Table D for S = =[1,2,3,4,5,6] for k = 3
 
 
 
- */
+
