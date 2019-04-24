@@ -2,7 +2,7 @@
 
 
 /*
-Input: Given an arrangment S of nonnegative number {s1,..,sn} and an integer k
+Input: Given an arrangment S nonnegative number {s1,..,sn} and an integer k
 Output: Partation S in k ranges so as to minimize the maxximum sum over all the ranges
 
 //////-> kth partation starts after we have placed the (k-1) divider
